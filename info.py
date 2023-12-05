@@ -32,7 +32,7 @@ BOT_START_TIME = time()
 PICS = (environ.get('PICS', 'https://telegra.ph/file/5fe8fe2657a254ace9ea1.jpg https://telegra.ph/file/c28b06c75b9f3a861871c.jpg https://telegra.ph/file/102bc6bfbfc1f39cc33ad.jpg https://telegra.ph/file/8e8ebbcbb1d0887707045.jpg https://telegra.ph/file/571c674cdb2d72b347de6.jpg https://telegra.ph/file/d1403ac4b4bfa23c86b5d.jpg https://telegra.ph/file/3cb1aada3e7c93a543d3e.jpg https://telegra.ph/file/8b44b463a19d16e45e6bf.jpg https://telegra.ph/file/bf0f6fd573cc757e4a12b.jpg https://telegra.ph/file/3d0d446918acd46b0609a.jpg https://telegra.ph/file/9d5cd3d5d0b9d9f65b6c0.jpg https://telegra.ph/file/3eae381cedb25cff38b72.jpg')).split()
 REQ_PICS = (environ.get('REQ_PICS', 'https://graph.org/Filmotainment-07-18')).split()
 NOR_IMG = environ.get("NOR_IMG", "https://telegra.ph/file/46443096bc6895c74a716.jpg")
-MELCOW_VID = environ.get("MELCOW_VID", "https://telegra.ph/file/bf0f6fd573cc757e4a12b.jpg")
+MELCOW_VID = environ.get("MELCOW_VID", "https://telegra.ph/file/d842ded1b51a4aa960d98.mp4")
 SPELL_IMG = environ.get("SPELL_IMG", "https://telegra.ph/file/1d1eb0f99e0125979ace3.jpg")
 
 # Admins, Channels & Users
