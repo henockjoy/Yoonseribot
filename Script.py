@@ -185,9 +185,14 @@ Request Again"""
 ‼️𝗗𝗼𝗻𝘁 𝗮𝗱𝗱 𝘄𝗼𝗿𝗱𝘀 & 𝘀𝘆𝗺𝗯𝗼𝗹𝘀 𝗹𝗶𝗸𝗲 , . -  send link movie series 𝗲𝘁𝗰‼️"""
 
     OWNER_INFO = """
-○ 𝖢𝗋𝖾𝖺𝗍𝗈𝗋 : <a href='https://t.me/FTAdminbot'>𝖳𝗁𝗂𝗌 𝖯𝖾𝗋𝗌𝗈𝗇</a>
+<i>All the Files in this bot are freely available on the internet or posted by somebody else.
 
-○ 𝖲𝗎𝗉𝗉𝗈𝗋𝗍 𝖦𝗋𝗈𝗎𝗉 : <a href='https://t.me/Teamyoonseri'>𝖳𝖺𝗉 𝖧𝖾𝗋𝖾</a>
+This bot is indexing files which are already uploaded on Internet or Telegram for easy of Searching.
+We Respect all the Copyright Laws and works in Compilance With DMCA and EUCD.
+
+If anything is against law please contact us so that it can be Removed ASAP.
+
+ID to Report: @FTAdminbot</i>
 """
 
     NORSLTS = """
