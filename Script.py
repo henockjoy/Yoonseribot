@@ -1,11 +1,11 @@
 class script(object):
     START_TXT = """𝖧𝖾𝗅𝗅𝗈 {}.𝖭𝗂𝖼𝖾 𝖬𝖾𝖾𝗍𝗂𝗇𝗀 𝖸𝗈𝗎.!!
-    
-    𝖩𝗎𝗌𝗍 𝖠𝖽𝖽 𝖬𝖾 𝖳𝗈 𝖸𝗈𝗎𝗋 𝖦𝗋𝗈𝗎𝗉 𝖠𝗌 𝖠𝖽𝗆𝗂𝗇, 𝖳𝗁𝖺𝗍𝗌 𝖠𝗅𝗅, 𝗂 𝗐𝗂𝗅𝗅 𝖯𝗋𝗈𝗏𝗂𝖽𝖾 𝖬𝗈𝗏𝗂𝖾𝗌 𝖳𝗁𝖾𝗋𝖾...🤓🤪</i>
-    
-    𝖬𝗈𝗋𝖾 𝖧𝖾𝗅𝗉 𝖧𝗂𝗍 /help
-    
-    <b>𝖯𝗈𝗐𝖾𝗋𝖾𝖽 𝖻𝗒 @TeamYoonseri</b>"""
+
+𝖨'𝗆 𝖩𝗎𝗌𝗍 𝖺 𝖲𝗂𝗆𝗉𝗅𝖾 𝖺𝗇𝖽 𝖯𝗈𝗐𝖾𝗋𝖿𝗎𝗅 𝖠𝗎𝗍𝗈-𝖥𝗂𝗅𝗍𝖾𝗋𝖻𝗈𝗍. 𝖳𝗁𝖺𝗍 𝖼𝖺𝗇 𝖯𝗋𝗈𝗏𝗂𝖽𝖾 𝖬𝗈𝗏𝗂𝖾𝗌 𝖺𝗇𝖽 𝗌𝖾𝗋𝗂𝖾𝗌 𝖤𝖺𝗌𝗂𝗅𝗒.
+
+𝖥𝗈𝗋 𝖬𝗈𝗋𝖾 𝖧𝖾𝗅𝗉 𝖼𝗅𝗂𝖼𝗄 𝗍𝗁𝖾 <b>𝖧𝖾𝗅𝗉</b> 𝖻𝗎𝗍𝗍𝗈𝗇 𝖻𝖾𝗅𝗈𝗐.
+
+<b>𝖯𝗈𝗐𝖾𝗋𝖾𝖽 𝖻𝗒 @TeamYoonseri</b>"""
 
     HELP_TXT = """🙋🏻‍♂️   𝖧𝖾𝗅𝗅𝗈𝗈𝗈  {} 🤓
 
@@ -182,15 +182,13 @@ Request Again"""
 
 ‼️𝗗𝗼𝗻𝘁 𝗮𝗱𝗱 𝘄𝗼𝗿𝗱𝘀 & 𝘀𝘆𝗺𝗯𝗼𝗹𝘀 𝗹𝗶𝗸𝗲 , . -  send link movie series 𝗲𝘁𝗰‼️"""
 
-    OWNER_INFO = """📯 𝖣𝗂𝗌𝖼𝗅𝖺𝗂𝗆𝖾𝗋:
+    OWNER_INFO = """<b>📯 𝖣𝗂𝗌𝖼𝗅𝖺𝗂𝗆𝖾𝗋:</b>
 <i>All the Files in this bot are freely available on the internet or posted by somebody else.
 
 This bot is indexing files which are already uploaded on Internet or Telegram for easy of Searching.
 We Respect all the Copyright Laws and works in Compilance With DMCA and EUCD.
 
-If anything is against law please contact us so that it can be Removed ASAP.
-
-ID to Report: @FTAdminbot</i>
+If anything is against law please contact us so that it can be Removed ASAP.</i>
 """
 
     NORSLTS = """
