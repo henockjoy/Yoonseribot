@@ -202,7 +202,7 @@ Message <b>: {}</b>"""
     CAPTION = """
 📂 <b>File Name</b>: <code>{file_name}</code> 
 
-❤️‍🔥 </b>Join</b> [𝖥𝗂𝗅𝗆𝗈𝗍𝖺𝗂𝗇𝗆𝖾𝗇𝗍](https://t.me/FT_Chats)  
+❤️‍🔥 </b>Join</b> [𝖥𝗂𝗅𝗆𝗈𝗍𝖺𝗂𝗇𝗆𝖾𝗇𝗍](https://t.me/FT_Chatz)  
 """
 
     IMDB_TEMPLATE_TXT = """
